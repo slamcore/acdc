@@ -31,12 +31,10 @@ To install:
 
 For this work we created two datasets:
 
-1. [D435i dataset (real data)](https://drive.google.com/file/d/10RpBacPfDK3jwqf0yYSm1ovHMN05OHWm/view?usp=sharing)
+1. [D435i dataset (real data)](https://drive.google.com/file/d/1j-eIGaumhY7r01bt0lH4QFEzr309HDns/view?usp=sharing)
 2. [Active TartanAir dataset (virtual data)](https://drive.google.com/file/d/1hyYzBhzsl9uK8bfmIufC0EVpfjZ7GC_H/view?usp=sharing)
 
-Please, use the links provided to download the datasets. Note that for D435i dataset we could not provide all training sequences because of licensing issues, this affects 45% of the training set.
-
-Once the datasets are downloaded copy them to: /data/datasets/d435i/ and /data/datasets/TartanAirEurocFormat/ or update the yaml files (acdc/configs) "data_path" to the correct path.
+Please, use the links provided to download the datasets. Once the datasets are downloaded copy them to: /data/datasets/d435i/ and /data/datasets/TartanAirEurocFormat/ or update the yaml files (acdc/configs) "data_path" to the correct path.
 
 ## Models
 
