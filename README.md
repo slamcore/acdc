@@ -1,7 +1,7 @@
 # ACDC-Net: Self-Supervised Depth Completion for Active Stereo
 ## Description
 
-This repository implements [Self-Supervised Depth Completion for Active Stereo](https://arxiv.org/abs/2110.03234) inference, this work was accepted for publication in RAL and ICRA 2022. The code is realease under [CC Attribution-NonCommercial-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode).
+This repository implements [Self-Supervised Depth Completion for Active Stereo](https://arxiv.org/abs/2110.03234) inference, this work was accepted for publication in RAL and ICRA 2022. The code and dataset are realease under [CC Attribution-NonCommercial-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode). The Active TartanAir dataset is a modified version of [TartanAir](https://theairlab.org/tartanair-dataset/), it is released under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 [paper](https://arxiv.org/abs/2110.03234 "Self-Supervised Depth Completion for Active Stereo Paper") / [code](https://github.com/slamcore/acdc "Self-Supervised Depth Completion for Active Stereo Code") / [video](http://www.youtube.com/watch?v=mSuTyTz6npU) / [blog post](https://www.slamcore.com/blog/turbo-charging-depth-maps-with-ai)
 
