@@ -65,6 +65,10 @@ This is the command you need to use for evaluation:
 
 You can find config files (yaml) in configs/depth_completion/realsense/ and configs/depth_completion/tartanair/ for reproducing results of Tables 1 and 2. Note that the model with backbone ResNet-18 on Active TartanAir dataset may produce slightly different results than the one described in the paper, the model was lost and we had to retrain.
 
+## Related repositories
+
+As part of our paper we implemented ActiveStereoNet for a fair comparison, we release the code here: [ActiveStereoNet implementation](https://github.com/slamcore/ActiveStereoNet).
+
 ## What to cite
 
 If you use this code for your research, please kindly cite:
