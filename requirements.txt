@@ -3,7 +3,7 @@ colorama==0.4.4; python_version >= "3.6" and python_full_version < "3.0.0" and s
 dropblock==0.3.0 
 fvcore==0.1.5.post20211023; python_version >= "3.6" 
 iopath==0.1.9; python_version >= "3.6" 
-joblib==1.1.0; python_version >= "3.6" 
+joblib==1.2.0; python_version >= "3.6" 
 kornia==0.6.2; python_version >= "3.6" 
 loguru==0.5.3; python_version >= "3.5" 
 numpy==1.22.1 
